@@ -1,0 +1,13 @@
+{
+		"boilerplate": "https://github.com/federicoweber/vgHear/raw/master/boilerplate.zip"
+	,	"subModules": [
+			"https://github.com/federicoweber/vgHear.git"
+		]
+	, 	"libs": [
+
+		]
+	,	"commit": "init Repo"
+	,	"libsPath": "app/js/libs"
+	,	"todoName": "todo.taskpaper"
+
+}
